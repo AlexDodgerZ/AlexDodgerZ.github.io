@@ -1,0 +1,3152 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Eastperch Poacher",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Ranger ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/190_Eastperch Poacher.png"
+			}
+		},
+		{
+			"name": "Discovering Voldora",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/15_Discovering Voldora.png"
+			}
+		},
+		{
+			"name": "Blindside",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/8_Blindside.png"
+			}
+		},
+		{
+			"name": "Hummingway Riders",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Scout ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/23_Hummingway Riders.png"
+			}
+		},
+		{
+			"name": "Settling Down",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/34_Settling Down.png"
+			}
+		},
+		{
+			"name": "White Cloud Phalanx",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/43_White Cloud Phalanx.png"
+			}
+		},
+		{
+			"name": "Robin Tamer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/161_Robin Tamer.png"
+			}
+		},
+		{
+			"name": "Brightwing Matriarch",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/10_Brightwing Matriarch.png"
+			}
+		},
+		{
+			"name": "Arise and Shine",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/5_Arise and Shine.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Blue Sky",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Wizard ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/45_Acolyte of the Blue Sky.png"
+			}
+		},
+		{
+			"name": "Flock Together",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/56_Flock Together.png"
+			}
+		},
+		{
+			"name": "Into Thin Air",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/62_Into Thin Air.png"
+			}
+		},
+		{
+			"name": "Gust Wielder",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/59_Gust Wielder.png"
+			}
+		},
+		{
+			"name": "Nimbus Djinn",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/68_Nimbus Djinn.png"
+			}
+		},
+		{
+			"name": "Avalian Drifter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/46_Avalian Drifter.png"
+			}
+		},
+		{
+			"name": "Only a Dream",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/69_Only a Dream.png"
+			}
+		},
+		{
+			"name": "Skysurfer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/80_Skysurfer.png"
+			}
+		},
+		{
+			"name": "Homesickness",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/60_Homesickness.png"
+			}
+		},
+		{
+			"name": "Mist Weaver",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elemental Elf Wizard ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/67_Mist Weaver.png"
+			}
+		},
+		{
+			"name": "Rainbowscale",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Snake ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/76_Rainbowscale.png"
+			}
+		},
+		{
+			"name": "Fledgling Saltnipper",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Serpent Drake ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/55_Fledgling Saltnipper.png"
+			}
+		},
+		{
+			"name": "Tidal Typhoon",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/83_Tidal Typhoon.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Black Storm",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Warlock ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/89_Acolyte of the Black Storm.png"
+			}
+		},
+		{
+			"name": "A Dark and Stormy Night",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/100_A Dark and Stormy Night.png"
+			}
+		},
+		{
+			"name": "Profit Barge",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/120_Profit Barge.png"
+			}
+		},
+		{
+			"name": "Warp Zone Marauder",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Pirate ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/130_Warp Zone Marauder.png"
+			}
+		},
+		{
+			"name": "Malefic Nightspawn",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/114_Malefic Nightspawn.png"
+			}
+		},
+		{
+			"name": "Fiendish Winds",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/106_Fiendish Winds.png"
+			}
+		},
+		{
+			"name": "Fowl Magician",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Cleric ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/107_Fowl Magician.png"
+			}
+		},
+		{
+			"name": "Ghastly Blimp",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/109_Ghastly Blimp.png"
+			}
+		},
+		{
+			"name": "Air Raid",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/90_Air Raid.png"
+			}
+		},
+		{
+			"name": "Jaka's Scalper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/113_Jaka's Scalper.png"
+			}
+		},
+		{
+			"name": "Ruthless Duskflitter",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Cat Bat ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/122_Ruthless Duskflitter.png"
+			}
+		},
+		{
+			"name": "Overcast Elemental",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/116_Overcast Elemental.png"
+			}
+		},
+		{
+			"name": "Intel Commando",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/61_Intel Commando.png"
+			}
+		},
+		{
+			"name": "Armada Muscle",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/92_Armada Muscle.png"
+			}
+		},
+		{
+			"name": "Undying Hope",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/127_Undying Hope.png"
+			}
+		},
+		{
+			"name": "Bleak Forecast",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/97_Bleak Forecast.png"
+			}
+		},
+		{
+			"name": "Retake the Skydocks",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/121_Retake the Skydocks.png"
+			}
+		},
+		{
+			"name": "Out of Air",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/72_Out of Air.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Red Sun",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/133_Acolyte of the Red Sun.png"
+			}
+		},
+		{
+			"name": "Lifted Spirits",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/148_Lifted Spirits.png"
+			}
+		},
+		{
+			"name": "Brazen Opportunist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Pirate ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/138_Brazen Opportunist.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Green Air",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/177_Acolyte of the Green Air.png"
+			}
+		},
+		{
+			"name": "Plummet",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/209_Plummet.png"
+			}
+		},
+		{
+			"name": "Search for Tomorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/213_Search for Tomorrow.png"
+			}
+		},
+		{
+			"name": "Overgrown Nestling",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Bird ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/201_Overgrown Nestling.png"
+			}
+		},
+		{
+			"name": "Pecking Order",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/208_Pecking Order.png"
+			}
+		},
+		{
+			"name": "Aspire to Greatness",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/6_Aspire to Greatness.png"
+			}
+		},
+		{
+			"name": "Cardinal Griffin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird Griffin ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/11_Cardinal Griffin.png"
+			}
+		},
+		{
+			"name": "Daring Skydiver",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/14_Daring Skydiver.png"
+			}
+		},
+		{
+			"name": "Feathered Exemplar",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Knight ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/20_Feathered Exemplar.png"
+			}
+		},
+		{
+			"name": "Early Bird",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/16_Early Bird.png"
+			}
+		},
+		{
+			"name": "Prepare for Departure",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/30_Prepare for Departure.png"
+			}
+		},
+		{
+			"name": "Fly in Formation",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/22_Fly in Formation.png"
+			}
+		},
+		{
+			"name": "Fleetfoot Pioneer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/21_Fleetfoot Pioneer.png"
+			}
+		},
+		{
+			"name": "Acolyte of the White Cloud",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/1_Acolyte of the White Cloud.png"
+			}
+		},
+		{
+			"name": "Onward and Upward",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/70_Onward and Upward.png"
+			}
+		},
+		{
+			"name": "Weather Research",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/85_Weather Research.png"
+			}
+		},
+		{
+			"name": "Cloud Cover",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/50_Cloud Cover.png"
+			}
+		},
+		{
+			"name": "Errant Ephemeron",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Illusion ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/53_Errant Ephemeron.png"
+			}
+		},
+		{
+			"name": "Colony Whale",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Whale ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/51_Colony Whale.png"
+			}
+		},
+		{
+			"name": "Air Service",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/134_Air Service.png"
+			}
+		},
+		{
+			"name": "Parting the Clouds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/204_Parting the Clouds.png"
+			}
+		},
+		{
+			"name": "Lofty-Eyed Youth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/25_Lofty-Eyed Youth.png"
+			}
+		},
+		{
+			"name": "Heirloom Wings",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/247_Heirloom Wings.png"
+			}
+		},
+		{
+			"name": "Corrupted Conviction",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/99_Corrupted Conviction.png"
+			}
+		},
+		{
+			"name": "Freewheeler Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/143_Freewheeler Dragon.png"
+			}
+		},
+		{
+			"name": "Stuff of Legend",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/37_Stuff of Legend.png"
+			}
+		},
+		{
+			"name": "Air-Cover Commando",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/91_Air-Cover Commando.png"
+			}
+		},
+		{
+			"name": "Endless Romanticism",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/18_Endless Romanticism.png"
+			}
+		},
+		{
+			"name": "Against All Odds",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/2_Against All Odds.png"
+			}
+		},
+		{
+			"name": "Luxury Shipment",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/149_Luxury Shipment.png"
+			}
+		},
+		{
+			"name": "Patron of the Red Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/152_Patron of the Red Sun.png"
+			}
+		},
+		{
+			"name": "Faloa's Trickery",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/54_Faloa's Trickery.png"
+			}
+		},
+		{
+			"name": "Armada's Might",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/178_Armada's Might.png"
+			}
+		},
+		{
+			"name": "Red Sun Mandate",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/157_Red Sun Mandate.png"
+			}
+		},
+		{
+			"name": "Cosmic Majesty",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/186_Cosmic Majesty.png"
+			}
+		},
+		{
+			"name": "Warp Zone",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/176_Warp Zone.png"
+			}
+		},
+		{
+			"name": "Murkspace Portal",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/266_Murkspace Portal.png"
+			}
+		},
+		{
+			"name": "Barcero Port",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/258_Barcero Port.png"
+			}
+		},
+		{
+			"name": "Imperial Cruiser",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/147_Imperial Cruiser.png"
+			}
+		},
+		{
+			"name": "Windsurfing Contest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/86_Windsurfing Contest.png"
+			}
+		},
+		{
+			"name": "Circumnavigate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/49_Circumnavigate.png"
+			}
+		},
+		{
+			"name": "Brass Observatory",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/244_Brass Observatory.png"
+			}
+		},
+		{
+			"name": "Daerlys, Sparse Channeler",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Elemental Elf Druid ",
+			"collector_number": "187",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/187_Daerlys, Sparse Channeler_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/187_Daerlys, Sparse Channeler_front.png"
+			}
+		},
+		{
+			"name": "Baleful Propheseer",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird Demon Shaman ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/222_Baleful Propheseer.png"
+			}
+		},
+		{
+			"name": "Black Storm Mandate",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/96_Black Storm Mandate.png"
+			}
+		},
+		{
+			"name": "Zephys Rebel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/44_Zephys Rebel.png"
+			}
+		},
+		{
+			"name": "Charged Strike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/139_Charged Strike.png"
+			}
+		},
+		{
+			"name": "Patron of the White Cloud",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Soldier ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/29_Patron of the White Cloud.png"
+			}
+		},
+		{
+			"name": "Canopy Soothsayer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bird Druid ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/184_Canopy Soothsayer.png"
+			}
+		},
+		{
+			"name": "Patron of the Green Air",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Bird Bear Warrior ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/206_Patron of the Green Air.png"
+			}
+		},
+		{
+			"name": "Tempest Channeler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/170_Tempest Channeler.png"
+			}
+		},
+		{
+			"name": "Kinflock Eagle",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/24_Kinflock Eagle.png"
+			}
+		},
+		{
+			"name": "Scrapper Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Drake ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/165_Scrapper Drake.png"
+			}
+		},
+		{
+			"name": "Total Outmaneuver",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/38_Total Outmaneuver.png"
+			}
+		},
+		{
+			"name": "Skycurrent Cycle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/79_Skycurrent Cycle.png"
+			}
+		},
+		{
+			"name": "Atmospheric Erosion",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/93_Atmospheric Erosion.png"
+			}
+		},
+		{
+			"name": "Galactic Sparsespawn",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/108_Galactic Sparsespawn.png"
+			}
+		},
+		{
+			"name": "Dreamship",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/189_Dreamship.png"
+			}
+		},
+		{
+			"name": "Calmkin Preserver",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental Elf Druid ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/182_Calmkin Preserver.png"
+			}
+		},
+		{
+			"name": "Inevitable Return",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/111_Inevitable Return.png"
+			}
+		},
+		{
+			"name": "Aerial Artistry",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/220_Aerial Artistry.png"
+			}
+		},
+		{
+			"name": "Green Air Mandate",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/195_Green Air Mandate.png"
+			}
+		},
+		{
+			"name": "Sparsedawn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/167_Sparsedawn.png"
+			}
+		},
+		{
+			"name": "Audacious Jetkite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/136_Audacious Jetkite.png"
+			}
+		},
+		{
+			"name": "Dastardly Caravel",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/101_Dastardly Caravel.png"
+			}
+		},
+		{
+			"name": "Zephys Market",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/271_Zephys Market.png"
+			}
+		},
+		{
+			"name": "Ruminate",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/162_Ruminate.png"
+			}
+		},
+		{
+			"name": "Mincent, Fierce Loyalist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "26",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/26_Mincent, Fierce Loyalist_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/26_Mincent, Fierce Loyalist_front.png"
+			}
+		},
+		{
+			"name": "Unforgiving Forecast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/241_Unforgiving Forecast.png"
+			}
+		},
+		{
+			"name": "Worldtwister",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/87_Worldtwister.png"
+			}
+		},
+		{
+			"name": "Chasing the Horizon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/12_Chasing the Horizon.png"
+			}
+		},
+		{
+			"name": "Ornith Stampede",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/237_Ornith Stampede.png"
+			}
+		},
+		{
+			"name": "Red Sun Strafer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/158_Red Sun Strafer.png"
+			}
+		},
+		{
+			"name": "Smuggler's Blimp",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/253_Smuggler's Blimp.png"
+			}
+		},
+		{
+			"name": "Eagle Empires",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/225_Eagle Empires.png"
+			}
+		},
+		{
+			"name": "Red Sun Zealot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/159_Red Sun Zealot.png"
+			}
+		},
+		{
+			"name": "Cloudskate Wave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/261_Cloudskate Wave.png"
+			}
+		},
+		{
+			"name": "Mirage Maelstrom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/265_Mirage Maelstrom.png"
+			}
+		},
+		{
+			"name": "Giant Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/193_Giant Growth.png"
+			}
+		},
+		{
+			"name": "Predator's Instincts",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/119_Predator's Instincts.png"
+			}
+		},
+		{
+			"name": "Inscrutable Matrix",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/248_Inscrutable Matrix.png"
+			}
+		},
+		{
+			"name": "Prismatic Roost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/267_Prismatic Roost.png"
+			}
+		},
+		{
+			"name": "Monsoon Elemental",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/200_Monsoon Elemental.png"
+			}
+		},
+		{
+			"name": "Archons' Prowess",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/4_Archons' Prowess.png"
+			}
+		},
+		{
+			"name": "Eye of the World",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/263_Eye of the World.png"
+			}
+		},
+		{
+			"name": "Cogli's Tinkering",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/140_Cogli's Tinkering.png"
+			}
+		},
+		{
+			"name": "Blighted Seedcore",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/181_Blighted Seedcore.png"
+			}
+		},
+		{
+			"name": "Sparsespace Brute",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Pirate ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/168_Sparsespace Brute.png"
+			}
+		},
+		{
+			"name": "Jaka, the Notorious",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Elemental Rogue ",
+			"collector_number": "112",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/112_Jaka, the Notorious_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/112_Jaka, the Notorious_front.png"
+			}
+		},
+		{
+			"name": "To Bravely Go",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/172_To Bravely Go.png"
+			}
+		},
+		{
+			"name": "Gristni Saboteurs",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast Artificer ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/196_Gristni Saboteurs.png"
+			}
+		},
+		{
+			"name": "Defend the Young",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/188_Defend the Young.png"
+			}
+		},
+		{
+			"name": "Unstable Atmosphere",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/173_Unstable Atmosphere.png"
+			}
+		},
+		{
+			"name": "Colony Cruisers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/185_Colony Cruisers.png"
+			}
+		},
+		{
+			"name": "Ernest, Forever Loyal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Griffin ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/19_Ernest, Forever Loyal.png"
+			}
+		},
+		{
+			"name": "Nurtured Griffling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Griffin ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/27_Nurtured Griffling.png"
+			}
+		},
+		{
+			"name": "Block Out the Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/9_Block Out the Sun.png"
+			}
+		},
+		{
+			"name": "Jany, Rescue Falcon",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Bird ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/230_Jany, Rescue Falcon.png"
+			}
+		},
+		{
+			"name": "Journeywoman",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pilot ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/63_Journeywoman.png"
+			}
+		},
+		{
+			"name": "Voyage of Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/174_Voyage of Dreams.png"
+			}
+		},
+		{
+			"name": "Fly South",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/57_Fly South.png"
+			}
+		},
+		{
+			"name": "Lofty Lookout",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/198_Lofty Lookout.png"
+			}
+		},
+		{
+			"name": "Territorial Cloudskate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Fish ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/125_Territorial Cloudskate.png"
+			}
+		},
+		{
+			"name": "Certain Downfall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/98_Certain Downfall.png"
+			}
+		},
+		{
+			"name": "Nest Crow",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Bird Pirate ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/236_Nest Crow.png"
+			}
+		},
+		{
+			"name": "Practiced Extortionist",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Bird Pirate ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/118_Practiced Extortionist.png"
+			}
+		},
+		{
+			"name": "Natural Disaster",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/235_Natural Disaster.png"
+			}
+		},
+		{
+			"name": "Skywhale Cloudsplitter",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Whale ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/81_Skywhale Cloudsplitter.png"
+			}
+		},
+		{
+			"name": "Hot Air",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/145_Hot Air.png"
+			}
+		},
+		{
+			"name": "Ragemaw",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/156_Ragemaw.png"
+			}
+		},
+		{
+			"name": "Profit Blitz",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/154_Profit Blitz.png"
+			}
+		},
+		{
+			"name": "Thunder and Lightning",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/171_Thunder and Lightning.png"
+			}
+		},
+		{
+			"name": "Ask for Directions",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/179_Ask for Directions.png"
+			}
+		},
+		{
+			"name": "Birdwatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/180_Birdwatcher.png"
+			}
+		},
+		{
+			"name": "Skyshaping",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/238_Skyshaping.png"
+			}
+		},
+		{
+			"name": "Floating on Air",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/191_Floating on Air.png"
+			}
+		},
+		{
+			"name": "Owlcub",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird Bear ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/202_Owlcub.png"
+			}
+		},
+		{
+			"name": "Wonderwing",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/219_Wonderwing.png"
+			}
+		},
+		{
+			"name": "Archon's Thunder",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/221_Archon's Thunder.png"
+			}
+		},
+		{
+			"name": "Sail Into the Sun",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/33_Sail Into the Sun.png"
+			}
+		},
+		{
+			"name": "The Flegdligriff",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Bird Griffin ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/227_The Flegdligriff.png"
+			}
+		},
+		{
+			"name": "Kinsten Varya, Paragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/231_Kinsten Varya, Paragon.png"
+			}
+		},
+		{
+			"name": "Voldoran Valiant",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/40_Voldoran Valiant.png"
+			}
+		},
+		{
+			"name": "White Cloud Nimbus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/270_White Cloud Nimbus.png"
+			}
+		},
+		{
+			"name": "Blue Sky Nimbus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/260_Blue Sky Nimbus.png"
+			}
+		},
+		{
+			"name": "Black Storm Nimbus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/259_Black Storm Nimbus.png"
+			}
+		},
+		{
+			"name": "Red Sun Nimbus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/268_Red Sun Nimbus.png"
+			}
+		},
+		{
+			"name": "Green Air Nimbus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/264_Green Air Nimbus.png"
+			}
+		},
+		{
+			"name": "Life's Resurgence",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/197_Life's Resurgence.png"
+			}
+		},
+		{
+			"name": "Sky Swallow",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/215_Sky Swallow.png"
+			}
+		},
+		{
+			"name": "Skyward Stream",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/239_Skyward Stream.png"
+			}
+		},
+		{
+			"name": "Sparsespace Observatory",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/269_Sparsespace Observatory.png"
+			}
+		},
+		{
+			"name": "Stormfront Beacon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/254_Stormfront Beacon.png"
+			}
+		},
+		{
+			"name": "Thriving Sparseport",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/126_Thriving Sparseport.png"
+			}
+		},
+		{
+			"name": "Voldora's Collapse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/129_Voldora's Collapse.png"
+			}
+		},
+		{
+			"name": "Miraculous Forecast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/66_Miraculous Forecast.png"
+			}
+		},
+		{
+			"name": "Sabotaged Cargo",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/164_Sabotaged Cargo.png"
+			}
+		},
+		{
+			"name": "Dreadnought Express",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/224_Dreadnought Express.png"
+			}
+		},
+		{
+			"name": "Glimpse of Eternity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/58_Glimpse of Eternity.png"
+			}
+		},
+		{
+			"name": "White Cloud Mandate",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/42_White Cloud Mandate.png"
+			}
+		},
+		{
+			"name": "Dreadfleet Flagship",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/105_Dreadfleet Flagship.png"
+			}
+		},
+		{
+			"name": "Patient Yeradactyl",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Bird Dinosaur ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/73_Patient Yeradactyl.png"
+			}
+		},
+		{
+			"name": "Sora's Lieutenant",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/36_Sora's Lieutenant.png"
+			}
+		},
+		{
+			"name": "Shiny Stash",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/251_Shiny Stash.png"
+			}
+		},
+		{
+			"name": "Sky Skiff",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/252_Sky Skiff.png"
+			}
+		},
+		{
+			"name": "Voyage Onward",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/175_Voyage Onward.png"
+			}
+		},
+		{
+			"name": "Voldora Express",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/217_Voldora Express.png"
+			}
+		},
+		{
+			"name": "Hurtling Scrapheap",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/146_Hurtling Scrapheap.png"
+			}
+		},
+		{
+			"name": "Reinforcement Trooper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/31_Reinforcement Trooper.png"
+			}
+		},
+		{
+			"name": "Ozone Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/203_Ozone Bruiser.png"
+			}
+		},
+		{
+			"name": "Wardwing Sentry",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/41_Wardwing Sentry.png"
+			}
+		},
+		{
+			"name": "Resistance Fundraisers",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/32_Resistance Fundraisers.png"
+			}
+		},
+		{
+			"name": "Patron of the Black Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/117_Patron of the Black Storm.png"
+			}
+		},
+		{
+			"name": "Airstriders",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/243_Airstriders.png"
+			}
+		},
+		{
+			"name": "Backup Trooper",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/137_Backup Trooper.png"
+			}
+		},
+		{
+			"name": "Armada Paratrooper",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/135_Armada Paratrooper.png"
+			}
+		},
+		{
+			"name": "Refreshing Breeze",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/210_Refreshing Breeze.png"
+			}
+		},
+		{
+			"name": "Lonely Gardener",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/199_Lonely Gardener.png"
+			}
+		},
+		{
+			"name": "Rush of Confidence",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/163_Rush of Confidence.png"
+			}
+		},
+		{
+			"name": "Star Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/82_Star Scholar.png"
+			}
+		},
+		{
+			"name": "Fast Travel",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/142_Fast Travel.png"
+			}
+		},
+		{
+			"name": "Ragavan, Acting Captain",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Monkey Pirate ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/155_Ragavan, Acting Captain.png"
+			}
+		},
+		{
+			"name": "Seasoned Airiner",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/78_Seasoned Airiner.png"
+			}
+		},
+		{
+			"name": "Birds of a Feather",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/7_Birds of a Feather.png"
+			}
+		},
+		{
+			"name": "Eclipse Regent",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/17_Eclipse Regent.png"
+			}
+		},
+		{
+			"name": "Warden of Clear Skies",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Bird Beast ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/218_Warden of Clear Skies.png"
+			}
+		},
+		{
+			"name": "Covering Paratrooper",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier Rebel ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/13_Covering Paratrooper.png"
+			}
+		},
+		{
+			"name": "Sparsespace Navigator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Pirate ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/123_Sparsespace Navigator.png"
+			}
+		},
+		{
+			"name": "Zephys Scrappers",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/132_Zephys Scrappers.png"
+			}
+		},
+		{
+			"name": "Archon's Judgment",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/3_Archon's Judgment.png"
+			}
+		},
+		{
+			"name": "Black Hole Shade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elemental Shade ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/95_Black Hole Shade.png"
+			}
+		},
+		{
+			"name": "Downdrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Elemental Warlock ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/104_Downdrafter.png"
+			}
+		},
+		{
+			"name": "Eagle-Eyed Platoon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/226_Eagle-Eyed Platoon.png"
+			}
+		},
+		{
+			"name": "Deadly Vortex",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/102_Deadly Vortex.png"
+			}
+		},
+		{
+			"name": "Rift Bolt",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/160_Rift Bolt.png"
+			}
+		},
+		{
+			"name": "Blusterstorm",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/48_Blusterstorm.png"
+			}
+		},
+		{
+			"name": "Murkspace Shade",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Shade ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/233_Murkspace Shade.png"
+			}
+		},
+		{
+			"name": "Prevailing Winds",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/75_Prevailing Winds.png"
+			}
+		},
+		{
+			"name": "Blue Sky Mandate",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/47_Blue Sky Mandate.png"
+			}
+		},
+		{
+			"name": "Pebbling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/207_Pebbling.png"
+			}
+		},
+		{
+			"name": "Spirit of Forgotten Islands",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/216_Spirit of Forgotten Islands.png"
+			}
+		},
+		{
+			"name": "Voldoran Royal Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/39_Voldoran Royal Guard.png"
+			}
+		},
+		{
+			"name": "Virimiya, the Crown Jewel",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/256_Virimiya, the Crown Jewel.png"
+			}
+		},
+		{
+			"name": "Navi-Max",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/249_Navi-Max.png"
+			}
+		},
+		{
+			"name": "Counteract",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/52_Counteract.png"
+			}
+		},
+		{
+			"name": "Daring Orator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Bard ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/223_Daring Orator.png"
+			}
+		},
+		{
+			"name": "Zuma, Unruly Disciple",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Bird Monk ",
+			"collector_number": "88",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/88_Zuma, Unruly Disciple_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/88_Zuma, Unruly Disciple_front.png"
+			}
+		},
+		{
+			"name": "Ornith Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Warrior ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/28_Ornith Hermit.png"
+			}
+		},
+		{
+			"name": "Patron of the Blue Sky",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/74_Patron of the Blue Sky.png"
+			}
+		},
+		{
+			"name": "Ornith Highwayman",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird Rogue ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/71_Ornith Highwayman.png"
+			}
+		},
+		{
+			"name": "Kirizi",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Bird Warlock ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/232_Kirizi.png"
+			}
+		},
+		{
+			"name": "Kirizi's Arts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/64_Kirizi's Arts.png"
+			}
+		},
+		{
+			"name": "Opportunistic Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/115_Opportunistic Watcher.png"
+			}
+		},
+		{
+			"name": "Scrollfetch Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/77_Scrollfetch Raven.png"
+			}
+		},
+		{
+			"name": "The Phoenix Seed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/153_The Phoenix Seed.png"
+			}
+		},
+		{
+			"name": "Typhoon Crow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Bird ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/84_Typhoon Crow.png"
+			}
+		},
+		{
+			"name": "Erupting Typhoon",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Cloud ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/262_Erupting Typhoon.png"
+			}
+		},
+		{
+			"name": "Harmony Tour Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Pilot ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/144_Harmony Tour Guide.png"
+			}
+		},
+		{
+			"name": "Wily Pickpocket",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/131_Wily Pickpocket.png"
+			}
+		},
+		{
+			"name": "Omnivane Station",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/250_Omnivane Station.png"
+			}
+		},
+		{
+			"name": "Calmkin Retreat",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/183_Calmkin Retreat.png"
+			}
+		},
+		{
+			"name": "Interminable Velocity",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/229_Interminable Velocity.png"
+			}
+		},
+		{
+			"name": "Surveyor Rig",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/255_Surveyor Rig.png"
+			}
+		},
+		{
+			"name": "Up the Bounty",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/128_Up the Bounty.png"
+			}
+		},
+		{
+			"name": "Glowtorch Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/110_Glowtorch Rebel.png"
+			}
+		},
+		{
+			"name": "High Marshal of Zephys",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/228_High Marshal of Zephys.png"
+			}
+		},
+		{
+			"name": "Cortesian Flagship",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/141_Cortesian Flagship.png"
+			}
+		},
+		{
+			"name": "Marooned Junker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/150_Marooned Junker.png"
+			}
+		},
+		{
+			"name": "Nip, Dastardly Crook",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Goblin Rogue ",
+			"collector_number": "151",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/151_Nip, Dastardly Crook_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/151_Nip, Dastardly Crook_front.png"
+			}
+		},
+		{
+			"name": "Voldoran Remodeler",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/257_Voldoran Remodeler.png"
+			}
+		},
+		{
+			"name": "Patient Grakthid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bird Beast ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/205_Patient Grakthid.png"
+			}
+		},
+		{
+			"name": "Sharpshooter Elf",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Ranger ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/214_Sharpshooter Elf.png"
+			}
+		},
+		{
+			"name": "Rumbrawler",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/212_Rumbrawler.png"
+			}
+		},
+		{
+			"name": "Mystic Navigator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/234_Mystic Navigator.png"
+			}
+		},
+		{
+			"name": "Goliath",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/246_Goliath.png"
+			}
+		},
+		{
+			"name": "Gengrin, the Stormtouched",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Berserker ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/192_Gengrin, the Stormtouched.png"
+			}
+		},
+		{
+			"name": "Merrin, Calmkin Medium",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Elemental Elf Wizard ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/65_Merrin, Calmkin Medium.png"
+			}
+		},
+		{
+			"name": "Stormkin Vindicator",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Elemental Elf Berserker ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/124_Stormkin Vindicator.png"
+			}
+		},
+		{
+			"name": "Solar Bolt",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/166_Solar Bolt.png"
+			}
+		},
+		{
+			"name": "Stormkin Medium",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Elf  Shaman ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/169_Stormkin Medium.png"
+			}
+		},
+		{
+			"name": "Vacuum Breach",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Instant",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/242_Vacuum Breach.png"
+			}
+		},
+		{
+			"name": "Sora, Ruler on High",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Sora ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/35_Sora, Ruler on High.png"
+			}
+		},
+		{
+			"name": "Dmina of the Danger",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Elf Pirate ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/103_Dmina of the Danger.png"
+			}
+		},
+		{
+			"name": "Grand Armada Flagship",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/194_Grand Armada Flagship.png"
+			}
+		},
+		{
+			"name": "Rootwatch Skygrasper",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad Warrior ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/211_Rootwatch Skygrasper.png"
+			}
+		},
+		{
+			"name": "Steamgear Colony",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/240_Steamgear Colony.png"
+			}
+		},
+		{
+			"name": "Beyond Reality",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/94_Beyond Reality.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/2_Bird.png"
+			}
+		},
+		{
+			"name": "Worm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Worm ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/5_Worm.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/3_Soldier.png"
+			}
+		},
+		{
+			"name": "Archon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Archon ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/1_Archon.png"
+			}
+		},
+		{
+			"name": "Drake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/4_Drake.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/7_Treasure.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/6_Elemental.png"
+			}
+		},
+		{
+			"name": "Vehicle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Vehicle ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/8_Vehicle.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/276_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/275_Mountain.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/273_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/274_Swamp.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/272_Plains.png"
+			}
+		},
+		{
+			"name": "Danger",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://AlexDodgerZ.github.io/sets/ADC-files/img/245_Danger.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 Eastperch Poacher
+2 Freewheeler Dragon
+2 Air-Cover Commando
+2 Endless Romanticism
+2 Luxury Shipment
+2 Faloa's Trickery
+2 Red Sun Mandate
+2 Cosmic Majesty
+2 Barcero Port
+2 Brass Observatory
+2 Baleful Propheseer
+2 Black Storm Mandate
+2 Kinflock Eagle
+2 Total Outmaneuver
+2 Atmospheric Erosion
+2 Inevitable Return
+2 Green Air Mandate
+2 Ornith Stampede
+2 Red Sun Strafer
+2 Cloudskate Wave
+2 Ernest, Forever Loyal
+2 Jany, Rescue Falcon
+2 Fly South
+2 Practiced Extortionist
+2 Natural Disaster
+2 Skywhale Cloudsplitter
+2 Skyshaping
+2 Archon's Thunder
+2 Kinsten Varya, Paragon
+2 White Cloud Mandate
+2 Dreadfleet Flagship
+2 Sora's Lieutenant
+2 Voyage Onward
+2 Wardwing Sentry
+2 Resistance Fundraisers
+2 Ragavan, Acting Captain
+2 Warden of Clear Skies
+2 Blusterstorm
+2 Blue Sky Mandate
+2 Ornith Highwayman
+2 Typhoon Crow
+2 Omnivane Station
+2 Calmkin Retreat
+2 Interminable Velocity
+2 Voldoran Remodeler
+2 Rumbrawler
+2 Gengrin, the Stormtouched
+2 Merrin, Calmkin Medium
+2 Stormkin Vindicator
+2 Solar Bolt
+2 Stormkin Medium
+2 Vacuum Breach
+2 Dmina of the Danger
+2 Rootwatch Skygrasper
+2 Steamgear Colony
+2 Danger
+1 Warp Zone
+1 Daerlys, Sparse Channeler
+1 Mincent, Fierce Loyalist
+1 Worldtwister
+1 Eagle Empires
+1 Eye of the World
+1 Jaka, the Notorious
+1 Sail Into the Sun
+1 The Flegdligriff
+1 Black Hole Shade
+1 Prevailing Winds
+1 Virimiya, the Crown Jewel
+1 Zuma, Unruly Disciple
+1 Kirizi
+1 The Phoenix Seed
+1 Nip, Dastardly Crook
+1 Goliath
+1 Sora, Ruler on High
+1 Grand Armada Flagship
+1 Beyond Reality
+[UncommonSlot(3)]
+9 Flock Together
+9 Skysurfer
+9 Intel Commando
+9 Search for Tomorrow
+9 Colony Whale
+9 Parting the Clouds
+9 Lofty-Eyed Youth
+9 Stuff of Legend
+9 Against All Odds
+9 Patron of the Red Sun
+9 Armada's Might
+9 Murkspace Portal
+9 Windsurfing Contest
+9 Patron of the White Cloud
+9 Patron of the Green Air
+9 Scrapper Drake
+9 Skycurrent Cycle
+9 Galactic Sparsespawn
+9 Aerial Artistry
+9 Sparsedawn
+9 Audacious Jetkite
+9 Dastardly Caravel
+9 Zephys Market
+9 Ruminate
+9 Unforgiving Forecast
+9 Chasing the Horizon
+9 Smuggler's Blimp
+9 Red Sun Zealot
+9 Predator's Instincts
+9 Prismatic Roost
+9 Archons' Prowess
+9 Cogli's Tinkering
+9 Defend the Young
+9 Colony Cruisers
+9 Nurtured Griffling
+9 Block Out the Sun
+9 Voyage of Dreams
+9 Territorial Cloudskate
+9 Certain Downfall
+9 Nest Crow
+9 Hot Air
+9 Profit Blitz
+9 Floating on Air
+9 Owlcub
+9 Voldoran Valiant
+9 Life's Resurgence
+9 Skyward Stream
+9 Stormfront Beacon
+9 Thriving Sparseport
+9 Voldora's Collapse
+9 Miraculous Forecast
+9 Dreadnought Express
+9 Glimpse of Eternity
+9 Patient Yeradactyl
+9 Reinforcement Trooper
+9 Ozone Bruiser
+9 Patron of the Black Storm
+9 Airstriders
+9 Lonely Gardener
+9 Star Scholar
+9 Fast Travel
+9 Birds of a Feather
+9 Eclipse Regent
+9 Sparsespace Navigator
+9 Downdrafter
+9 Eagle-Eyed Platoon
+9 Murkspace Shade
+9 Pebbling
+9 Voldoran Royal Guard
+9 Counteract
+9 Daring Orator
+9 Ornith Hermit
+9 Patron of the Blue Sky
+9 Kirizi's Arts
+9 Opportunistic Watcher
+9 Scrollfetch Raven
+9 Erupting Typhoon
+9 Harmony Tour Guide
+9 Wily Pickpocket
+9 Surveyor Rig
+9 Up the Bounty
+9 Glowtorch Rebel
+9 High Marshal of Zephys
+9 Cortesian Flagship
+9 Marooned Junker
+9 Patient Grakthid
+9 Sharpshooter Elf
+9 Mystic Navigator
+[CommonSlot(11)]
+30 Discovering Voldora
+30 Blindside
+30 Hummingway Riders
+30 Settling Down
+30 White Cloud Phalanx
+30 Robin Tamer
+30 Brightwing Matriarch
+30 Arise and Shine
+30 Acolyte of the Blue Sky
+30 Into Thin Air
+30 Gust Wielder
+30 Nimbus Djinn
+30 Avalian Drifter
+30 Only a Dream
+30 Homesickness
+30 Mist Weaver
+30 Rainbowscale
+30 Fledgling Saltnipper
+30 Tidal Typhoon
+30 Acolyte of the Black Storm
+30 A Dark and Stormy Night
+30 Profit Barge
+30 Warp Zone Marauder
+30 Malefic Nightspawn
+30 Fiendish Winds
+30 Fowl Magician
+30 Ghastly Blimp
+30 Air Raid
+30 Jaka's Scalper
+30 Ruthless Duskflitter
+30 Overcast Elemental
+30 Armada Muscle
+30 Undying Hope
+30 Bleak Forecast
+30 Retake the Skydocks
+30 Out of Air
+30 Acolyte of the Red Sun
+30 Lifted Spirits
+30 Brazen Opportunist
+30 Acolyte of the Green Air
+30 Plummet
+30 Overgrown Nestling
+30 Pecking Order
+30 Aspire to Greatness
+30 Cardinal Griffin
+30 Daring Skydiver
+30 Feathered Exemplar
+30 Early Bird
+30 Prepare for Departure
+30 Fly in Formation
+30 Fleetfoot Pioneer
+30 Acolyte of the White Cloud
+30 Onward and Upward
+30 Weather Research
+30 Cloud Cover
+30 Errant Ephemeron
+30 Air Service
+30 Heirloom Wings
+30 Corrupted Conviction
+30 Imperial Cruiser
+30 Circumnavigate
+30 Zephys Rebel
+30 Charged Strike
+30 Canopy Soothsayer
+30 Tempest Channeler
+30 Dreamship
+30 Calmkin Preserver
+30 Mirage Maelstrom
+30 Giant Growth
+30 Inscrutable Matrix
+30 Monsoon Elemental
+30 Blighted Seedcore
+30 Sparsespace Brute
+30 To Bravely Go
+30 Gristni Saboteurs
+30 Unstable Atmosphere
+30 Journeywoman
+30 Lofty Lookout
+30 Ragemaw
+30 Thunder and Lightning
+30 Ask for Directions
+30 Birdwatcher
+30 Wonderwing
+30 White Cloud Nimbus
+30 Blue Sky Nimbus
+30 Black Storm Nimbus
+30 Red Sun Nimbus
+30 Green Air Nimbus
+30 Sky Swallow
+30 Sparsespace Observatory
+30 Sabotaged Cargo
+30 Shiny Stash
+30 Sky Skiff
+30 Voldora Express
+30 Hurtling Scrapheap
+30 Backup Trooper
+30 Armada Paratrooper
+30 Refreshing Breeze
+30 Rush of Confidence
+30 Seasoned Airiner
+30 Covering Paratrooper
+30 Zephys Scrappers
+30 Archon's Judgment
+30 Deadly Vortex
+30 Rift Bolt
+30 Spirit of Forgotten Islands
+30 Navi-Max
